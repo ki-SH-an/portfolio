@@ -11,7 +11,7 @@ body{
 #header{
     width: 100%;
     height: 200vh;
-    background-image: url(https://github.com/ki-SH-an/portfolio/blob/main/background.png);
+    background-image: url(background.png);
     background-size: cover;
     background-position: absolute ;
 }
